@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Digital Marketing, Web Devlopment, Support**
 
-💬 Ask me about **Hosting, Digital Marketing, Designing... or anything [here]()**
+💬 Ask me about **Hosting, Digital Marketing, Designing... or anything [here](https://www.facebook.com/profile.php?id=100086199800812)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
