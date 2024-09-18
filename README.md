@@ -40,8 +40,8 @@
 <h2 align="center">⚒️ My-Skills ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,github,linkedin" />
-    <img src="https://skillicons.dev/icons?i=wordpress,twitter,windows,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,github,linkedin" /><br>
+    <img src="https://skillicons.dev/icons?i=wordpress,twitter,windows,linux" />
 </div>
 
 <br/>
